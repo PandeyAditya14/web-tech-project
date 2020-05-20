@@ -131,4 +131,11 @@ const products = [
     price: 13.25,
     title: "Baguette Bread"
   }
+  {
+    category: "bread",
+    imageUrl:
+      "https://static.pexels.com/photos/416607/pexels-photo-416607.jpeg",
+    price: 13.25,
+    title: "Baguette Whole Wheat Bread"
+  }
 ];
